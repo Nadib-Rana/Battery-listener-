@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.BatteryListener" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+</resources>
